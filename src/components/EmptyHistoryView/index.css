@@ -1,0 +1,8 @@
+.empty-history-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  margin: 20px;
+  border-radius: 15px;
+}

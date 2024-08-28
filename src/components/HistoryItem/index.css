@@ -1,0 +1,42 @@
+.each-item {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.delete {
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.title {
+  margin-right: 10px;
+}
+
+.domainUrl {
+  color: #64748b;
+}
+
+.button {
+  border: none;
+}
